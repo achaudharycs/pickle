@@ -1,2 +1,4 @@
 # pickle
 In a pickle? Let pickle do the picking for you
+
+App that helps you quickly pick a place to eat based on your preferences in the moment. You can save restaurants, create your own categories, or explore new options. You can view restaurants on a map or a list view. The initial view is a series of questions to narrow down the search: do you want a quick bite or a full meal? do you want hot or cold food? how much do you want to spend? how much time do you have? how far are you willing to commute? healthy or unhealthy? over time the agent will learn about your experiences as you give reviews and suggest restaurants more tailored to your interests. 
